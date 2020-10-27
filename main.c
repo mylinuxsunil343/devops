@@ -17,4 +17,8 @@ f2 function()
 {
 	//my code is here
 }
+f4 function()
+{
+	//f4 code is here
+}
 }
