@@ -21,6 +21,7 @@ f2 function()
 f3 function()
 {
 	// f3 code is here
+}
 f4 function()
 {
 	//f4 code is here
