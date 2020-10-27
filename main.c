@@ -1,4 +1,16 @@
-func()
+pseudo code
 {
-	this is main functon
+Initial Function()
+{
+  //Sample Code
+}
+
+Initial Security()
+{
+ //Sample Code
+}
+Octpatch Security()
+{
+
+}
 }
