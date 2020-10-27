@@ -13,4 +13,8 @@ Octpatch Security()
 {
 
 }
+f2 function()
+{
+	//my code is here
+}
 }
